@@ -13,7 +13,7 @@ Kalkulator jest 8-bitowy, dlatego maksymalna wartość, którą można wyświetl
 # Wykorzystywane biblioteki:
 Biblioteki zostały zaczerpnięte ze źródła http://radzio.dxp.pl/hd44780/ i przerobione na potrzeby niniejszego projektu.
 - HD44780.h 
-```
+```cpp
 HD44780.h
 
 #include <avr/io.h>
