@@ -12,6 +12,7 @@ Kalkulator jest 8-bitowy, dlatego maksymalna wartość, którą możemy wyświet
 ![img](./hardware/eagle1.jpg)
 # Wykorzystywane biblioteki:
 Biblioteki zostały zaczerpnięte z tego źródła http://radzio.dxp.pl/hd44780/ oraz przerobione na potrzeby mojego projektu.
+- HD44780.h 
 ```
 HD44780.h
 
@@ -110,6 +111,7 @@ void LCD_Initalize(void);
 //
 //-------------------------------------------------------------------------------------------------
 ```
+- HD44780.c
 ```cpp
 
 #include "HD44780.h"
