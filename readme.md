@@ -1,9 +1,10 @@
 # Projekt Technika Mikroprocesorowa - Krystian Tutlewski
-Co to za projekt
+Kalkulator binarny 8-bitowy
 # Opis działania
-opis
+Posiadamy 10 przycisków (osiem oznaczających bity od 1 do 8, jeden przycisk enter oraz 1 przycisk clear).
+Bit 1 ma wartość 1, bit 2 ma wartość 2, bit 3 ma wartość 4, bit 4 ma wartość 8 itd.
 # Części wykorzystane w projekcie
-części
+
 # Schemat oraz części w Eagle
 ![img](./hardware/eagle1.jpg)
 ![img](./hardware/eagle2.jpg)
