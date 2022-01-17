@@ -1,13 +1,13 @@
-#Projekt Technika Mikroprocesorowa - Krystian Tutlewski
+# Projekt Technika Mikroprocesorowa - Krystian Tutlewski
 Co to za projekt
-#Opis działania
+# Opis działania
 opis
-#Części wykorzystane w projekcie
+# Części wykorzystane w projekcie
 części
-#Schemat oraz części w Eagle
+# Schemat oraz części w Eagle
 ![img](./hardware/jeden.jpg)
 ![img](./hardware/dwa.jpg)
-#Kod programu:
+# Kod programu:
 ```cpp
 #include <avr/io.h>
 #include <util/delay.h>
