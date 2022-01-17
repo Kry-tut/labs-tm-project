@@ -7,8 +7,8 @@ części
 #Schemat oraz części w Eagle
 ![img](./hardware/jeden.jpg)
 ![img](./hardware/dwa.jpg)
-#Kod programu
-'''cpp
+#Kod programu:
+```cpp
 #include <avr/io.h>
 #include <util/delay.h>
 #include <stdlib.h>
@@ -217,4 +217,4 @@ int main(void){
 
 	}
 }
-'''
+```
