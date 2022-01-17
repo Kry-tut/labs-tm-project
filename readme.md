@@ -5,8 +5,8 @@ opis
 # Części wykorzystane w projekcie
 części
 # Schemat oraz części w Eagle
-![img](./hardware/jeden.jpg)
-![img](./hardware/dwa.jpg)
+![img](./hardware/eagle1.jpg)
+![img](./hardware/eagle2.jpg)
 # Kod programu:
 ```cpp
 #include <avr/io.h>
