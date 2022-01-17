@@ -5,7 +5,7 @@ Na płytce znajduje się 10 przycisków (osiem oznaczających bity od 1 do 8, je
 Bit 1 ma wartość 1, bit 2 ma wartość 2, bit 3 ma wartość 4, bit 4 ma wartość 8 itd.
 Dodatkowo na płytce mieści się 8 diod LED, które zapalają się w zależności od naciśniętego przycisku i oznaczają daną wartość w systemie binarnym.
 Przycisk Clear służy do zerowania całej konfiguracji, jednak jeżeli powtórnie naciśniemy ten sam przycisk to jego stan się wyzeruje.
-Kalkulator jest 8-bitowy, dlatego maksymalna wartość, którą możemy wyświetlić wynosi 255 (2^8-1).
+Kalkulator jest 8-bitowy, dlatego maksymalna wartość, którą można wyświetlić wynosi 255 (2^8-1).
 # Projekt schematyczny w programie Eagle
 ![img](./hardware/eagle2.jpg)
 # Płytka w programie Eagle
